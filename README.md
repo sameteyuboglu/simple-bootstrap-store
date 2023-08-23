@@ -1,7 +1,5 @@
 # simple-bootstrap-store
 
-# responsive-movie-website
-
 ## What I Practice
 - Html and css
 - Bootstrap
